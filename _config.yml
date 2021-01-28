@@ -3,7 +3,7 @@ description: A place to store my projects
 author: Bruce Robinson
 github: https://github.com/buhruce
 about: Python & Numbers.
-disqus_shortname: stackproblems
+disqus_shortname: thoughts
 google_analytics: UA-XXXXXXXX-Y
 
 enableTags: true
@@ -15,13 +15,9 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-facebook
-      link: "#"
     - icon: fa-twitter
-      link: "#"
+      link: "https://twitter.com/buhruce"
     - icon: fa-linkedin
-      link: "#"
-    - icon: fa-stack-exchange
       link: "#"
     - icon: fa-github
       link: "https://github.com/agusmakmun"
