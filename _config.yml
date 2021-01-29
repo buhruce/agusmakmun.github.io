@@ -3,7 +3,6 @@ description: A place to store my projects
 author: Bruce Robinson
 github: https://github.com/buhruce
 about: Python & Numbers.
-disqus_shortname: thoughts
 google_analytics: UA-XXXXXXXX-Y
 
 enableTags: true
@@ -20,11 +19,7 @@ social:
     - icon: fa-linkedin
       link: "#"
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
-
-share:
-  twitter_username: github.io
-  fb_appid: 1749788565247320
+      link: "https://github.com/buhruce"
 
 urls:
     - text: About Me
